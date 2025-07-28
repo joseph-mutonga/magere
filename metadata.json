@@ -1,0 +1,6 @@
+{
+  "name": "school management system mage",
+  "description": "A comprehensive school management system for administrators, teachers, librarians, and students. It handles enrollment, subjects, library, and inventory management with role-based access and AI-powered insights.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
