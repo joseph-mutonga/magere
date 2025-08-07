@@ -4,7 +4,7 @@ This contains everything you need to run your app locally.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:**  Node.js v20+
 
 
 1. Install dependencies:
